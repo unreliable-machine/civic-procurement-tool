@@ -1,8 +1,10 @@
 # Civic Procurement Intelligence Tool
 
+> **Status:** Active
+
 Open WebUI tool for searching federal contracts (SAM.gov), registered entities, and awards (USAspending).
 
-Part of the [Civic Intelligence Platform](https://github.com/unreliable-machine/civic-tools) for [Change Agent AI](https://thechange.ai).
+Part of the [Change Agent Civic Intelligence Platform](https://github.com/unreliable-machine/civic-tools/blob/main/PLATFORM.md).
 
 ## Installation
 
